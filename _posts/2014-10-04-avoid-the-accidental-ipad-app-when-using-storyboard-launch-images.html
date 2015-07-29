@@ -1,0 +1,15 @@
+---
+layout: post
+title: Avoid the accidental iPad app when using storyboard launch images
+date: 2014-10-04 18:15:33.000000000 -07:00
+categories:
+---
+<p>[caption id="attachment_122" align="aligncenter" width="700"]<a href="{{ site.baseurl }}/assets/images/10115406243_e5ad7a5476_k.jpg"><img class="wp-image-122" src="{{ site.baseurl }}/assets/images/10115406243_e5ad7a5476_k.jpg" alt="Neal Fowler - Flickr" width="700" height="525" /></a> Neal Fowler - <a href="https://www.flickr.com/photos/31878512@N06/10115406243/in/photolist-gpS6RV-LWX76-NCh9t-iQUQ1e-DJosM-4PwHmR-5Q1Jxv-4HE2wS-4HzMZB-74NryH-51cuzy-8jcFVG-agBqwz-KygRN-5eouRR-bC1bbc-hSjmv-aFbx5v-92qem-feZ8PY-rEqYY-4aDCaZ-4ks9uS-3QJ8w-5pzzic-6TDPtx-921tm-4rxE9K-mn5UyX-6ZmHV-j1V4wo-68NArX-29NPjn-nMMMxd-5sBgK2-5WcMWe-91YdB-57Gzpg-7U5X82-7TSaLc-88Jt9s-aCHfJm-cq7aF-bVfJoS-p5Qk7G-LxWCg-3icJ63-6wEuMo-59ihu-4RyACL">Flickr</a>[/caption]</p>
+<p>A few weeks ago, Marco Arment posted about <a href="http://www.marco.org/2014/09/17/overcast-accidentally-universal">launching an accidental iPad version</a> of his non-universal app, Overcast. I ran into the same problem while setting up a storyboard launch image for an iPhone-only app and I've discovered a simple workaround for the problem.</p>
+<p>In your Info.plist file, append ~iphone to the UILaunchStoryboardName key. Done!</p>
+<p><img class="aligncenter wp-image-117 size-full" src="{{ site.baseurl }}/assets/images/Screen-Shot-2014-10-04-at-11.34.10-AM.png" alt="Screen Shot 2014-10-04 at 11.34.10 AM" width="751" height="326" /></p>
+<p>Now when you run your iPhone only app on an iPad, it will load in the classic iPhone windowed mode instead treating it like a universal app.</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter wp-image-120 size-large" src="{{ site.baseurl }}/assets/images/iOS-Simulator-Screen-Shot-Oct-4-2014-11.34.32-AM-768x1024.png" alt="iOS Simulator Screen Shot Oct 4, 2014, 11.34.32 AM" width="766" height="1021" /></p>
+<p>I also experimented with setting different launch screen storyboards for the iPad by creating a UILaunchStoryboardName~ipad key in the plist and it seemed to work fine too, which may come in handy if you want to use different launch storyboards on iPhone and iPad when making universal apps.</p>
+<p>I've created a <a href="https://github.com/robmaceachern/avoid-accidental-ipad-app">basic iOS project on Github</a> that you can demo. Give it a shot.</p>
