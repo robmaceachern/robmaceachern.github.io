@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remembering Norman Angus MacEachern
-date: 2014-11-11 18:40:35.000000000-0800
+date: 2014-11-11 18:40:35-0800
 categories: 
 ---
 
