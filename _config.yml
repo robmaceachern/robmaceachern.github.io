@@ -1,16 +1,52 @@
 # Site settings
 title: Your awesome title
-email: your-email@domain.com
+email: rob@robmaceachern.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: robmaceachern
-github_username:  robmaceachern 
 
-timezone: America/Vancouver
 
-# Build settings
-markdown: kramdown
+
+
+title:            rob maceachern
+description:      Describe your website here.
+disqus_shortname: shortname
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:              #//robmaceachern.github.io
+baseurl:          "" # the subpath of your site, e.g. /blog/
+
+
+# Owner/author information
+owner:
+  name:           Rob MacEachern
+  avatar:         avatar.jpg
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          rob@robmaceachern.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        robmaceachern
+  facebook:       
+  github:         robmaceachern
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +yourid
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Vancouver
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# Amount of posts to show on home page
+paginate: 5
