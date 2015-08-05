@@ -5,7 +5,12 @@ date: 2014-11-11 18:40:35
 categories: 
 ---
 
-<p><a href="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg"><img src="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg" alt="Canadians in captured trenches on Hill 70 in August 1917."/></a> Canadians in captured trenches on Hill 70 in August 1917 - <a href="http://commons.wikimedia.org/wiki/File:Hill_70_-_Canadians_in_captured_trenches.jpg">Wikipedia</a></p>
+<figure>
+    <a href="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg"><img src="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg" alt=""></a>
+    <figcaption>Canadians in captured trenches on Hill 70 in August 1917 - Wikimedia Commons</figcaption>
+</figure>
+
+
 <p>Today I'm remembering Norman Angus MacEachern, my great grandfather. He enlisted in the Canadian Infantry on February 26, 1916 - when he was 21 years old - to fight in the First World War.</p>
 <p>On August 15, 1917, he took part in the battle at Hill 70 in France in which there were more than 9,000 Allied casualties and more than 25,000 German casualties. In recognition of his conduct in battle he was awarded the <a href="http://www.veterans.gc.ca/eng/remembrance/medals-decorations/orders-decorations/dso">Distinguished Service Order</a> and Distinguished Service Order First Bar medals.</p>
 <p>A year later, in September 1918, he was severely injured and spent 5 months in an English hospital. He eventually returned home to Wetaskiwin Alberta.</p>
@@ -18,10 +23,11 @@ categories:
 <p>About 74 yards in Advance of the CHALK PIT a number of the enemy were encountered and dealt with. At this point one man from the 7 th Battalion and 2 men of the 8 th Battalion who had remained in shell holes from the previous day, joined the company and joined in the attack. At 4:15 P.M. the right area of the CHALK PIT was clear and wounded were being attended to, when a German was seen coming out of a dugout on the run. The sentry promptly blew his head off, immediately an explosion took place in the dugout causing us no causalities. Shortly after this another dugout was blown in causing us no casualities. When it was considered safe a search of the other dugouts was made and a German Medical Officer and 7 stretcher bearers were found, who rendered very valuable assistance in caring for our wounded. A German Signal Sergeant was also found in a dugout. He hesitated giving up his papers , and was dealt with by Private Iwamoto who obtained an enemy code book, which was promptly turned over to Lieut. MacEachern. Two Lewis Guns and a bombing post were sent forward at once. Lieut. Graham made a daring reconnaissance forward along a communications trench, making the extreme advance of the Battalion. A block was out in and covered by Rifle Grenadiers and Lewis Guns. The balance of the Company consolidated the position as rapidly as possible, digging a trench parallel to the lip of the CHALK PIT. It became necessary to reinforce the Right Post which was under 19791 Sergeant J Wennevold, men for this purpose being drawn from “C” Company. This Post was made at M 32 d 4-1 and to the right of the Battalion Area, but as the 5 th Battalion had not come forward it was necessary to have this post very strong to protect our right flank. During the whole consolidation the whole front was subject to heavy Machine Gun fire and shelling from Field Guns. At 5:15 P.M. the enemy was observed to be massing on the right front. Word was sent to the artillery. Machine Guns and our Lewis Guns turned upon them., when our artillery barrage opened the enemy disappeared in confusion, his Machine Guns and snipers remaining very active.</p>
 <p>An enemy aeroplane made a reconnaissance of the area, and in a short time the very heavy artillery turned on to the CHALK PIT and vicinity, The enemy obtained an enfilade fire down the CHALK PIT from the direction of LENS, also a number of batteries worked for over an hour shooting from the left.</p></blockquote>
 <p><a href="http://www.canadiangreatwarproject.com/WarDiaries/e001085204.jpg">Source</a></p>
-<p><em>Other links</em></p>
-<p><a href="http://goo.gl/nZ1n2l">Norman Angus MacEachern soldier details</a></p>
-<p><a href="http://en.wikipedia.org/wiki/Battle_of_Hill_70">Battle of Hill 70 Wikipedia entry</a></p>
-<p><a href="http://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/land-battles/hill-70/">Battle of Hill 70</a></p>
-<p><a href="http://www.albertaonrecord.ca/maceachern-family-fonds">MacEachern family information</a></p>
-<p><a href="http://www.electricscotland.com/history/canada/alberta/duncan_maceachern.htm">Duncan MacEachern profile</a></p>
-<p><meta property="og:image" content="http://rm-web-assets.s3.amazonaws.com/robmaceachern.com/2014/11/Hill_70_-_Canadians_in_captured_trenches.jpg" /></p>
+
+#### Other links
+
+* [Norman Angus MacEachern soldier details](http://goo.gl/nZ1n2l)
+* [Battle of Hill 70 Wikipedia entry](http://en.wikipedia.org/wiki/Battle_of_Hill_70)
+* [Battle of Hill 70 War Museum Entry](http://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/land-battles/hill-70/)
+* [MacEachern family information](http://www.albertaonrecord.ca/maceachern-family-fonds)
+* [Duncan MacEachern profile](http://www.electricscotland.com/history/canada/alberta/duncan_maceachern.htm)

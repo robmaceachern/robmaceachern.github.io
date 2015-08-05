@@ -14,7 +14,7 @@ description:      Describe your website here.
 disqus_shortname: shortname
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              #//robmaceachern.github.io
+url:              //robmaceachern.github.io
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 
@@ -26,15 +26,15 @@ owner:
   email:          rob@robmaceachern.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        robmaceachern
-  facebook:       
+  facebook:       #robmaceachern
   github:         robmaceachern
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
+  stackexchange:  #rob-maceachern
+  linkedin:       #robmaceachern
+  instagram:      robmaceachern
+  flickr:         #maceachern.rob
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    #+yourid
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
