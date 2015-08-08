@@ -3,13 +3,13 @@ layout: post
 title: Remembering Norman Angus MacEachern
 date: 2014-11-11 18:40:35
 categories: 
+comments: false
 ---
 
 <figure>
     <a href="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg"><img src="{{ site.baseurl }}/assets/images/Hill_70_-_Canadians_in_captured_trenches.jpg" alt=""></a>
     <figcaption>Canadians in captured trenches on Hill 70 in August 1917 - Wikimedia Commons</figcaption>
 </figure>
-
 
 <p>Today I'm remembering Norman Angus MacEachern, my great grandfather. He enlisted in the Canadian Infantry on February 26, 1916 - when he was 21 years old - to fight in the First World War.</p>
 <p>On August 15, 1917, he took part in the battle at Hill 70 in France in which there were more than 9,000 Allied casualties and more than 25,000 German casualties. In recognition of his conduct in battle he was awarded the <a href="http://www.veterans.gc.ca/eng/remembrance/medals-decorations/orders-decorations/dso">Distinguished Service Order</a> and Distinguished Service Order First Bar medals.</p>
